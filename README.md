@@ -276,7 +276,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Saksham**
 - Founder of Scult India
 - Email: sg9935425@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sakshamgupta036/)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
