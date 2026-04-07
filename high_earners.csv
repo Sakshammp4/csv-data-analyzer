@@ -1,0 +1,20 @@
+EmployeeID,Name,Department,Position,Salary,Age,YearsOfExperience,PerformanceRating,Location,JoinDate,YearsInCompany,AgeGroup,SalaryCategory
+E001,Rajesh Kumar,Engineering,Senior Developer,95000,32,8,4.5,Bangalore,2016-03-15,9.9,31-35,Senior
+E002,Priya Sharma,Marketing,Marketing Manager,85000,29,6,4.2,Mumbai,2018-07-22,7.5,26-30,Senior
+E006,Ananya Iyer,Engineering,Tech Lead,115000,36,12,4.8,Bangalore,2012-11-20,13.2,36-40,Executive
+E009,Rohit Gupta,Engineering,Senior Developer,98000,33,9,4.6,Bangalore,2015-08-12,10.5,31-35,Senior
+E010,Meera Joshi,Sales,Sales Manager,92000,34,11,4.4,Delhi,2013-04-25,12.8,31-35,Senior
+E011,Arjun Verma,Engineering,DevOps Engineer,88000,31,7,4.3,Bangalore,2017-10-08,8.3,31-35,Senior
+E013,Sanjay Rao,Finance,Finance Manager,95000,37,13,4.5,Mumbai,2011-09-30,14.3,36-40,Senior
+E017,Manish Agarwal,Engineering,Senior Developer,102000,35,10,4.7,Bangalore,2014-12-05,11.2,31-35,Executive
+E020,Nisha Pillai,Marketing,Brand Manager,82000,32,8,4.4,Mumbai,2016-06-14,9.6,31-35,Senior
+E022,Simran Kohli,Sales,Business Development Manager,87000,33,9,4.3,Delhi,2015-10-19,10.3,31-35,Senior
+E023,Rahul Tiwari,Engineering,Data Scientist,105000,31,7,4.6,Bangalore,2017-08-23,8.4,31-35,Executive
+E027,Kunal Jain,Engineering,Backend Developer,82000,30,6,4.3,Bangalore,2018-11-15,7.2,26-30,Senior
+E028,Aditi Rane,Sales,Regional Sales Manager,96000,36,12,4.5,Mumbai,2012-02-20,13.9,36-40,Senior
+E033,Vivek Arora,Engineering,Cloud Architect,125000,38,14,4.9,Bangalore,2010-05-17,15.7,36-40,Executive
+E038,Neha Agarwal,Marketing,Product Marketing Manager,89000,33,9,4.4,Mumbai,2015-03-08,10.9,31-35,Senior
+E039,Raghav Shetty,Engineering,Machine Learning Engineer,112000,32,8,4.7,Bangalore,2016-10-12,9.3,31-35,Executive
+E040,Preeti Singh,Sales,Key Account Manager,84000,31,7,4.2,Delhi,2017-06-05,8.7,31-35,Senior
+E045,Abhishek Nair,Engineering,Mobile Developer,80000,30,6,4.3,Bangalore,2018-05-28,7.7,26-30,Mid
+E049,Naveen Kumar,Finance,Financial Controller,98000,36,12,4.5,Mumbai,2012-08-07,13.5,36-40,Senior

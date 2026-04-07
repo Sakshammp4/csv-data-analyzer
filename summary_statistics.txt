@@ -1,0 +1,20 @@
+======================================================================
+EMPLOYEE DATA ANALYSIS - SUMMARY STATISTICS
+======================================================================
+
+Total Employees: 50
+
+SALARY STATISTICS:
+  Average: $75,960.00
+  Median: $72,000.00
+  Min: $48,000
+  Max: $125,000
+
+DEPARTMENT DISTRIBUTION:
+  Engineering: 17
+  Marketing: 9
+  HR: 8
+  Sales: 8
+  Finance: 8
+
+======================================================================
